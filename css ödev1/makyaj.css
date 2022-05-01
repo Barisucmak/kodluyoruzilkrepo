@@ -1,0 +1,26 @@
+/*
+
+class ---> .text-red{}
+id    ---> #id-bilgisi{}
+*/
+
+.text-red{
+    color: red;
+  }
+  .fs-small{font-size: 14px;}
+  
+  
+  .fs-medium{font-size: 20px;}
+  
+  
+  .fs-large{font-size: 30px;}
+  #buddd{color:blue;}
+
+  .renk{color:red;}
+  .arkaplan{background-color: rgb(219, 236, 241);}
+  .arkaplan2{background-color: rgb(223, 255, 205);}
+  .italik{font-style: italic;}
+  .hakkımızrenk{background-color: greenyellow;}
+  body{font-size: 20px;}
+  /*
+--------------------------------------------------------------*/
